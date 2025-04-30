@@ -29,7 +29,7 @@ This repository summarizes the core components of my research and technical cont
 ### [Bottom-Up Flexibility Quantification](papers_and_projects/flexibility_quantification.md)
 > A foundational IEEE ISGT paper proposing a method to quantify energy flexibility from clusters of heat pump systems using hot water demand data. Published in IEEE PES Innovative Smart Grid Technologies Conference Europe (2022)
 **Keywords:** Cluster Control, HP Flexibility, Grid Congestion, Feeder-Level Aggregation
-
+**DOI:** https://doi.org/10.1109/ISGT-Europe54678.2022.9960599
 
 ---
 
