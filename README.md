@@ -50,6 +50,14 @@ This repository summarizes the core components of my research and technical cont
 
 ---
 
+## 🤝 Acknowledgments
+
+This PhD research is funded by the **Research Foundation – Flanders (FWO)**.
+
+I would also like to acknowledge the support and supervision of **Prof. Geert Deconinck** and **Dr. Hussain Kazmi** at KU Leuven.
+
+---
+
 ## 🌐 Contact
 - Email: hafeez.saeed96@gmail.com  
 - LinkedIn: [Muhammad Hafeez Saeed](https://www.linkedin.com/in/mhafeezsaeed/)
