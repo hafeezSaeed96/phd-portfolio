@@ -38,7 +38,7 @@ This repository summarizes the core components of my research and technical cont
 | Project | Description |
 |--------|-------------|
 | [PINN-based Temperature Forecasting](code_highlights/pinn_temperature_prediction.md) | Implementation of a physics-informed neural network (PINN) model to predict indoor air and wall temperatures in a two-state RC building model. The network is constrained using thermal balance equations. |
-| [Synthetic Data Generator for RC Model](code_highlights/synthetic_data_generator.md) | Script to simulate synthetic temperature trajectories for multiple buildings using a 2-state RC model. Supports control inputs like heat pump operation and internal gains. |
+| [Synthetic Data Generator for RC Model](code_highlights/synthetic_data_generator.md) | Script to simulate synthetic temperature trajectories for multiple buildings using a 2-state RC model. Supports control inputs like heat pump operation and outdoor weather conditions. |
 | [Flexibility Request CLI Tool](code_highlights/flexibility_requests_cli.md) | A command-line interface (CLI) tool to compute cluster-level flexibility requests based on annual consumption data and dynamic pricing thresholds. Useful for simulating grid-congestion scenarios. |
 
 ---
